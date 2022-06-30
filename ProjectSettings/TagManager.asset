@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemies
+  - HitBox
+  - PlayerDead
+  - WinLevel
+  - win
+  - dead
+  - hit
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Ground
+  - Player
+  - Enemies
+  - Stomper
+  - Bush
+  - Hurtbox
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tlo
+    uniqueID: 248929803
+    locked: 0
+  - name: grobowce
+    uniqueID: 1236680601
+    locked: 0
+  - name: drugi plan
+    uniqueID: 3024430443
+    locked: 0
+  - name: Postac
+    uniqueID: 501218225
+    locked: 0
+  - name: Enemies
+    uniqueID: 1997460549
+    locked: 0
